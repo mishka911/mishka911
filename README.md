@@ -20,7 +20,7 @@
 <div align="left">
 <h3> Languages and Tools:</h3>
   <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40/>"&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="100" height="100/>"/>
   </div>
 </div>
 
