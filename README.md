@@ -12,8 +12,8 @@
 ### Sobre mi:
 
 - 🔭 Mi perfil en Linkedin: [Vane](https://www.linkedin.com/in/vanessa-proa%C3%B1o-acebo-0478a075/)
-- 🌱 Actualmente estudio programacion en Egg Cooperation
-- 💬 Programas que uso ** Pseint, Java**
+- 🌱 Actualmente estudio programacion en **Egg Cooperation**
+- 💬 Programas que uso **Java**
 - 📫 Correo: **vaneproano91@gmail.com**
 
 -->
