@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" />
-  <h1 align="center"> Hi 👋 I'm Vane</h1>
+  <h1 align="center"> Hola 👋 Soy Vane</h1>
   <h3 align="center"> Una mezcla entre RRHH con programación. Tengo mas de 5 años de experiencia en Talento Humano pero ahora estoy sumergida en el mundo de la       programación desde noviembre 2022. Programadora Full Stack en desarrollo. 
   </h3>
 </div>
