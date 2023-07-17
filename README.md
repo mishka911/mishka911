@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" />
   <h1 align="center"> Hola 👋 Soy Vane</h1>
   <h3 align="center"> Una mezcla entre RRHH con programación. Tengo mas de 5 años de experiencia en Talento Humano pero ahora estoy sumergida en el mundo de la       programación desde noviembre 2022. Programadora Full Stack en desarrollo. 
   </h3>
@@ -21,6 +21,8 @@
 <h3> Languages and Tools:</h3>
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="100" height="100/>"/>
+  <img src= "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title ="MySQL" alt="MySQL" width="100" height="100/>"/>
+  <img src= "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Pythpn" width="100" height="100/>"/>
   </div>
 </div>
 
