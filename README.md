@@ -13,7 +13,7 @@
 
 - 🔭 Mi perfil en Linkedin: [Vane](https://www.linkedin.com/in/vanessa-proa%C3%B1o-acebo-0478a075/)
 - 🌱 Actualmente estudio programacion en **Egg Cooperation**
-- 💬 Programas que uso **Java**, **SQL**, **Python**
+- 💬 Programas que uso **Java**, **SQL**, **Python**, **HTML**, **CSS**
 - 📫 Correo: **vaneproano91@gmail.com**
 
 ---
@@ -23,6 +23,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="100" height="100/>"/>
   <img src= "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title ="MySQL" alt="MySQL" width="100" height="100/>"/>
   <img src= "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Pythpn" width="100" height="100/>"/>
+  <img src= "https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" widht="100" height="100/>"/>
+  <img src= "https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" widht="100" height="100/>"/>
   </div>
 </div>
 
