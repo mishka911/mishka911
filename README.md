@@ -13,7 +13,7 @@
 
 - 🔭 Mi perfil en Linkedin: [Vane](https://www.linkedin.com/in/vanessa-proa%C3%B1o-acebo-0478a075/)
 - 🌱 Actualmente estudio programacion en **Egg Cooperation**
-- 💬 Programas que uso **Java**, **MySql**, **Python**, **HTML**, **CSS**, **React**, **Javascript**
+- 💬 Programas que uso **Java**, **MySql**, **Python**, **HTML**, **CSS**, **React**, **Javascript**, **Nodejs**
 - 📫 Correo: **vaneproano91@gmail.com**
 
 ---
@@ -25,6 +25,10 @@
   <img src= "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Pythpn" width="100" height="100/>"/>
   <img src= "https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" widht="100" height="100/>"/>
   <img src= "https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" widht="100" height="100/>"/>
+  <img src= "https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original-wordmark.svg" title="React" alt="React" widht="100" height="100/>"/>
+  <img src= "https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" widht="100" height="100/>"/>
+  <img src= "https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/git/git-original.svg" title="Git" alt="Git" widht="100" height="100/>"/>
+  <img src= "https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nodejs/nodejs-original-wordmark.svg" title="Nodejs" alt="Nodejs" widht="100" height="100/>"/>
   </div>
 </div>
 
