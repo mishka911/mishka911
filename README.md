@@ -13,7 +13,7 @@
 
 - 🔭 Mi perfil en Linkedin: [Vane](https://www.linkedin.com/in/vanessa-proa%C3%B1o-acebo-0478a075/)
 - 🌱 Actualmente estudio programacion en **Egg Cooperation**
-- 💬 Programas que uso **Java**, **SQL**, **Python**, **HTML**, **CSS**
+- 💬 Programas que uso **Java**, **MySql**, **Python**, **HTML**, **CSS**, **React**, **Javascript**
 - 📫 Correo: **vaneproano91@gmail.com**
 
 ---
