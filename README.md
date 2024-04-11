@@ -12,7 +12,7 @@
 ### Sobre mi:
 
 - 🔭 Mi perfil en Linkedin: [Vane](https://www.linkedin.com/in/vanessa-proa%C3%B1o-acebo-0478a075/)
-- 🌱 Estudié programación en **Egg Cooperation**, por lo que actualmente soy freelance
+- 🌱 Estudié programación en **Egg Cooperation** y e seguido cursos de **Udemy** para mejorar la logica. Actualemente soy freelance
 - 💬 Programas que uso **Java**, **MySql**, **Python**, **HTML**, **CSS**, **React**, **Javascript**, **Nodejs**
 - 📫 Correo: **vaneproano91@gmail.com**
 
